@@ -16,6 +16,7 @@ Esta es una pequeña guía paso a paso para subir archivos a GitHub utilizando G
 - `mkdir NombredelaCarpeta`: Crea una nueva carpeta.
 - `touch NombreArchivo.extension`: Crea un nuevo archivo.
 - `rm NombreArchivooCarpeta`: Elimina un archivo o carpeta.
+- `nv Archivo1.extension Archivo2.extension`: Cambia el nombre de un archivo
 
 ## Subir Archivos a GitHub
 
