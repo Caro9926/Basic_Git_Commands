@@ -10,11 +10,13 @@ Esta es una pequeña guía paso a paso para subir archivos a GitHub utilizando G
 ## Navegación y Operaciones Básicas
 
 - `ls`: Muestra la lista de archivos y carpetas en la terminal.
+- `ls -al`: Muestra la lista de archivos y carpetas en la terminal, incluso los ocultos
 - `pwd`: Indica la ubicación actual.
 - `cd NombredelaCarpeta`: Navega internamente en una carpeta.
 - `cd ..`: Sale de la carpeta actual.
 - `mkdir NombredelaCarpeta`: Crea una nueva carpeta.
 - `touch NombreArchivo.extension`: Crea un nuevo archivo.
+- `cat NombreArchivo.extension`: Ver el contenido de un archivo.
 - `rm NombreArchivooCarpeta`: Elimina un archivo o carpeta.
 - `nv Archivo1.extension Archivo2.extension `: Cambia el nombre de un archivo
 
