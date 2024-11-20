@@ -19,6 +19,8 @@ Esta es una pequeña guía paso a paso para subir archivos a GitHub utilizando G
 - `cat NombreArchivo.extension`: Ver el contenido de un archivo.
 - `rm NombreArchivooCarpeta`: Elimina un archivo o carpeta.
 - `nv Archivo1.extension Archivo2.extension `: Cambia el nombre de un archivo
+- `git reset número de commit --soft`: Borra cambios en la versión de commit señalada
+- `git reset número de commit --hard`: Borra todos los cambios
 
 ## Subir Archivos a GitHub
 
