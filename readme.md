@@ -22,7 +22,7 @@ Esta es una pequeña guía paso a paso para subir archivos a GitHub utilizando G
 - `git log `: Para ver los commits realizados.
 - `git reset número de commit --soft`: Borra cambios en la versión de commit señalada
 - `git reset número de commit --hard`: Borra todos los cambios
-- Si haces cambios solo añade git add. y git commit. Siempre deja un mensaje en el commit, es una buena práctica.
+  
 
 ## Subir Archivos a GitHub
 
@@ -34,5 +34,14 @@ Esta es una pequeña guía paso a paso para subir archivos a GitHub utilizando G
 6. `git status`: Muestra el estado actual; si está en verde, está listo para ser agregado.
 
 Recuerda repetir los pasos 2, 3 y 5 al actualizar o eliminar archivos.
+
+## Merge de ramas
+1. `git branch NombredelaRama`: Para crear una rama nueva
+2. `git branch`: Observar las ramas que tenemos
+3. `git show`: Para ir mostrando los cambios.
+5. `git log`: Para ir mostrando los commits.
+6. `git checkout NombredelaRama`: Para cambiar a la rama donde quieres estar
+7. `git merge`: Se combinan ambos contenidos de las ramas.
+8. `git commit -am "Mensaje"`: Añadir cambios que se realizan en los archivos dentro de las ramas.
 
 🚀 ¡Listo para subir tus archivos a GitHub! 🚀
